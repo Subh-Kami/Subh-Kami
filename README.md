@@ -4,40 +4,51 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I%27m+Subhanshu+Dwivedi;Frontend+Developer;UI+Enthusiast;Lifelong+Learner" alt="Subhanshu Dwivedi" />
-</h1>
+<h1 align="center">Subhanshu Dwivedi</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subh-kami&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-0B1020?style=flat-square&logo=javascript&logoColor=F7C948" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/UI-Enthusiast-0B1020?style=flat-square&logo=figma&logoColor=5EEAD4" alt="UI Enthusiast" />
+  <img src="https://img.shields.io/badge/Learning-Always-0B1020?style=flat-square&logo=rocket&logoColor=FBBF24" alt="Learning Always" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Subh-Kami" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/subhanshu-dwivedi-820ba6225" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mrsubhanshud13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subh-kami&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subh-kami&theme=radical&hide_border=true" alt="GitHub streak" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subh-kami&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="480" />
-</p>
-
-<p align="center">
-  Passionate about building clean, responsive, and thoughtful interfaces.
+  I build thoughtful, clean, and responsive web experiences.
   <br>
-  Currently learning, shipping, and growing one project at a time.
+  I like turning ideas into polished interfaces and learning by shipping.
+</p>
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## Currently Building
+
+- Responsive and visually engaging frontend interfaces
+- Better JavaScript and UI engineering fundamentals
+- Flutter and mobile-first UX experiments
+- Clean, user-focused digital products
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Building+clean+interfaces;Learning+every+day;Turning+ideas+into+products" alt="Typing SVG" />
 </p>
